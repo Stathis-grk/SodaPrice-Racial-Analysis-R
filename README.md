@@ -52,19 +52,19 @@ Preferred model based on lower AIC
 ![image](https://github.com/user-attachments/assets/e791f3e5-6791-4fb3-89aa-0c37b505bf4b)
 ![image](https://github.com/user-attachments/assets/a305c8ee-e60c-485b-8ff5-2bb5eae7e8ec)
 
-## Correlation Analysis (Question g)
+## Correlation Analysis 
 log(income) and prppov show high negative correlation (-0.838)
 
 As expected: higher income generally associates with lower poverty
 ![image](https://github.com/user-attachments/assets/4fd06d22-1ef5-4178-9b8e-8060f2f59284)
 
-## Multicollinearity Check (Question h)
+## Multicollinearity Check 
 Despite high correlation between log(income) and prppov:
 
 VIF values < 10 indicate no severe multicollinearity
 ![image](https://github.com/user-attachments/assets/6574422f-4006-4c6f-90c2-d43db01a786b)
 
-## Final Model Selection (Question i)
+## Final Model Selection 
 The most reliable model is the extended log-log model with poverty rate (ols3) because:
 
 Lowest AIC among alternatives
@@ -74,7 +74,7 @@ prpblck coefficient remains positive and significant
 Suggests racial composition affects fast food pricing
 ![image](https://github.com/user-attachments/assets/7db81a84-5b7c-4c22-a98a-b9aa7fc28909)
 
-## Assumption Validation (Question j)
+## Assumption Validation 
 Tests performed:
 Normality of residuals: Jarque-Bera test indicates issues
 Multicollinearity: VIF shows no problems
