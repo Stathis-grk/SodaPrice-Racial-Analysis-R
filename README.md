@@ -20,6 +20,8 @@ Mean: $47,053.78
 Standard deviation: $13,163.16
 
 Unit: Dollars ($)
+
+
 ![Στιγμιότυπο οθόνης 2025-07-03 123533](https://github.com/user-attachments/assets/9ca914cc-043b-42ba-beff-f30508f6667a)
 
 
