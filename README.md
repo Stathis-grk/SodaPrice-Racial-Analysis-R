@@ -20,7 +20,8 @@ Mean: $47,053.78
 Standard deviation: $13,163.16
 
 Unit: Dollars ($)
-![image](https://github.com/user-attachments/assets/a03ae39d-189a-43b9-a8cf-83bc86e87a25)
+![Στιγμιότυπο οθόνης 2025-07-03 123533](https://github.com/user-attachments/assets/9ca914cc-043b-42ba-beff-f30508f6667a)
+
 
 ## Regression Analysis
 Basic Model 
