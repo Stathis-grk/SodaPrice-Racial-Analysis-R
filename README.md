@@ -76,10 +76,10 @@ Suggests racial composition affects fast food pricing
 
 ## Assumption Validation 
 Tests performed:
-Normality of residuals: Jarque-Bera test indicates issues
-Multicollinearity: VIF shows no problems
-Autocorrelation: Durbin-Watson test shows no issues
-Heteroskedasticity: White test shows no problems
+### Normality of residuals: Jarque-Bera test indicates issues
+### Multicollinearity: VIF shows no problems
+### Autocorrelation: Durbin-Watson test shows no issues
+### Heteroskedasticity: White test shows no problems
 ![image](https://github.com/user-attachments/assets/dd470f32-c68d-444e-a362-be6112fd1106)
 ![image](https://github.com/user-attachments/assets/4051d812-e28f-4ca6-aafe-02a8d6e3dbb3)
 ![image](https://github.com/user-attachments/assets/1855f7f6-8e7c-43d6-928e-a0d5b937492c)
