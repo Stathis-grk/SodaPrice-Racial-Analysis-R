@@ -65,7 +65,7 @@ Preferred model based on lower AIC
 
 
 
-## ols3 model (add poverty rate)
+## log-log model with poverty rate
 log(psoda) = β₀ + β₁prpblck + β₂log(income) + β3(prppov) + u
 
 Black population → 0.07267% decrease in soda price 
@@ -100,7 +100,11 @@ Despite high correlation between log(income) and prppov:
 VIF values < 10 indicate no severe multicollinearity
 
 
-<img width="392" height="60" alt="image" src="https://github.com/user-attachments/assets/2caa6e62-8763-444a-b8f4-241e49958f5f" />
+
+<img width="392" height="60" alt="Στιγμιότυπο οθόνης 2025-09-25 100709" src="https://github.com/user-attachments/assets/351af369-ddec-4861-a4c0-5243064a4a1e" />
+
+
+
 
 
 ## Final Model Selection 
@@ -111,7 +115,12 @@ Lowest AIC among alternatives
 prpblck coefficient remains positive and significant
 
 Suggests racial composition affects fast food pricing
-![image](https://github.com/user-attachments/assets/7db81a84-5b7c-4c22-a98a-b9aa7fc28909)
+
+
+
+<img width="325" height="81" alt="image" src="https://github.com/user-attachments/assets/b6500132-d1e5-413d-ba13-c1b19f89a84f" />
+
+
 
 ## Assumption Validation 
 Tests performed:
@@ -119,9 +128,18 @@ Tests performed:
 ### Multicollinearity: VIF shows no problems
 ### Autocorrelation: Durbin-Watson test shows no issues
 ### Heteroskedasticity: White test shows no problems
-![image](https://github.com/user-attachments/assets/dd470f32-c68d-444e-a362-be6112fd1106)
-![image](https://github.com/user-attachments/assets/4051d812-e28f-4ca6-aafe-02a8d6e3dbb3)
-![image](https://github.com/user-attachments/assets/1855f7f6-8e7c-43d6-928e-a0d5b937492c)
+
+
+
+<img width="634" height="438" alt="Στιγμιότυπο οθόνης 2025-09-25 101527" src="https://github.com/user-attachments/assets/e7066e71-90de-4ad8-a8b2-6d3435a0467d" />
+
+
+
+
+<img width="693" height="404" alt="Στιγμιότυπο οθόνης 2025-09-25 101712" src="https://github.com/user-attachments/assets/fee4d882-d727-44ef-8058-f1ffb8364611" />
+
+
+
 
 # Interpretation
 The analysis consistently shows that areas with higher Black populations tend to have higher fast food soda prices, even after controlling for income and poverty levels. This may indicate:
