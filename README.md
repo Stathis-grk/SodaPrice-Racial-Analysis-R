@@ -66,7 +66,7 @@ Preferred model based on lower AIC
 
 
 
-### ols2 model it's more accurate (lower AIC2)
+### ols2 model it's more reliable (lower AIC2)
 ## log-log model with poverty rate
 log(psoda) = β₀ + β₁prpblck + β₂log(income) + β3(prppov) + u
 
@@ -125,11 +125,11 @@ Suggests racial composition affects fast food pricing
 
 
 ## Assumption Validation 
-Tests performed:
-### Normality of residuals: Jarque-Bera test indicates issues
-### Multicollinearity: VIF shows no problems
-### Autocorrelation: Durbin-Watson test shows no issues
-### Heteroskedasticity: White test shows no problems
+### Tests performed:
+#### Normality of residuals: Jarque-Bera test indicates issues
+#### Multicollinearity: VIF shows no problems
+#### Autocorrelation: Durbin-Watson test shows no issues
+#### Heteroskedasticity: White test shows no problems
 
 
 
