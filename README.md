@@ -65,6 +65,8 @@ Preferred model based on lower AIC
 
 
 
+
+### ols2 model it's more accurate (lower AIC2)
 ## log-log model with poverty rate
 log(psoda) = β₀ + β₁prpblck + β₂log(income) + β3(prppov) + u
 
