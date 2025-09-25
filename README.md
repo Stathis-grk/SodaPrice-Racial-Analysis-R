@@ -65,18 +65,43 @@ Preferred model based on lower AIC
 
 
 
+## ols3 model (add poverty rate)
+log(psoda) = β₀ + β₁prpblck + β₂log(income) + β3(prppov) + u
+
+Black population → 0.07267% decrease in soda price 
+
+R-squared: 0.08517 → it got increased 
+
+
+
+
+<img width="713" height="447" alt="image" src="https://github.com/user-attachments/assets/0cb4673c-d410-4e00-b018-5b6fe2cb89c7" />
+
+
+
+
+
 
 ## Correlation Analysis 
 log(income) and prppov show high negative correlation (-0.838)
 
 As expected: higher income generally associates with lower poverty
-![image](https://github.com/user-attachments/assets/4fd06d22-1ef5-4178-9b8e-8060f2f59284)
+
+
+
+<img width="390" height="38" alt="image" src="https://github.com/user-attachments/assets/f4e97ea1-fa4b-460c-a683-e662b3ec66e5" />
+
+
+
 
 ## Multicollinearity Check 
 Despite high correlation between log(income) and prppov:
 
 VIF values < 10 indicate no severe multicollinearity
-![image](https://github.com/user-attachments/assets/6574422f-4006-4c6f-90c2-d43db01a786b)
+
+
+<img width="392" height="60" alt="image" src="https://github.com/user-attachments/assets/2caa6e62-8763-444a-b8f4-241e49958f5f" />
+
 
 ## Final Model Selection 
 The most reliable model is the extended log-log model with poverty rate (ols3) because:
