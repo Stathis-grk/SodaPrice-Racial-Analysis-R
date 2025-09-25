@@ -36,8 +36,8 @@ R-squared: 0.06352
 Sample size: 410 observations
 
 p-value: 1.586e-06 (statistically significant)
-![image](https://github.com/user-attachments/assets/e9a8f15a-22e6-4e1a-9d2a-4b80e8924098)
-![image](https://github.com/user-attachments/assets/6cec927e-a655-4a5c-92dd-8d7d0b3ba2de)
+<img width="641" height="432" alt="image" src="https://github.com/user-attachments/assets/a34371d0-d511-46e0-8300-8c4a1b0e3208" />
+
 
 ## Log-Log Model 
 log(psoda) = β₀ + β₁prpblck + β₂log(income) + u
