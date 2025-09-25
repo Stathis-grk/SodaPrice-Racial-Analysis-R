@@ -70,7 +70,7 @@ Preferred model based on lower AIC
 ## log-log model with poverty rate
 log(psoda) = β₀ + β₁prpblck + β₂log(income) + β3(prppov) + u
 
-Black population → 0.07267% decrease in soda price 
+Black population → 0.07267% decreased in soda price 
 
 R-squared: 0.08517 → it got increased 
 
