@@ -54,8 +54,17 @@ log(psoda) = β₀ + β₁prpblck + β₂log(income) + u
 R-squared: 0.06723
 
 Preferred model based on lower AIC
-![image](https://github.com/user-attachments/assets/e791f3e5-6791-4fb3-89aa-0c37b505bf4b)
-![image](https://github.com/user-attachments/assets/a305c8ee-e60c-485b-8ff5-2bb5eae7e8ec)
+
+
+
+
+
+<img width="662" height="501" alt="image" src="https://github.com/user-attachments/assets/19ef6365-5459-4b24-936f-23b16173b284" />
+
+
+
+
+
 
 ## Correlation Analysis 
 log(income) and prppov show high negative correlation (-0.838)
