@@ -36,7 +36,12 @@ R-squared: 0.06352
 Sample size: 410 observations
 
 p-value: 1.586e-06 (statistically significant)
+
+
+
+
 <img width="641" height="432" alt="image" src="https://github.com/user-attachments/assets/a34371d0-d511-46e0-8300-8c4a1b0e3208" />
+
 
 
 ## Log-Log Model 
